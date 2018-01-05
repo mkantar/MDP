@@ -1,2 +1,2 @@
 # MDP
-A Markov Decision Process Algorithms Implementation with Object-Oriented Approach
+A Markov Decision Process Algorithms Implementation with OOP Approach
